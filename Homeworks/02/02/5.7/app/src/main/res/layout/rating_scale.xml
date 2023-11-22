@@ -1,0 +1,65 @@
+<!-- rating_dialog.xml -->
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Please Rate This Place: "
+        android:textColor="#66617E"
+        android:textSize="28sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/beertxt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Beer Selection (1-5): "
+        android:textColor="#66617E"
+        android:textSize="20sp" />
+
+    <EditText
+        android:id="@+id/beer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="1 - 5"
+        android:inputType="number"
+        android:textColor="#A575B3" />
+
+    <TextView
+        android:id="@+id/winetxt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Wine Selection (1-5):"
+        android:textColor="#66617E"
+        android:textSize="20sp" />
+
+    <EditText
+        android:id="@+id/wine"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="1 - 5"
+        android:inputType="number"
+        android:textColor="#A575B3" />
+
+    <TextView
+        android:id="@+id/musictxt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Music (1-5):"
+        android:textColor="#66617E"
+        android:textSize="20sp" />
+
+    <EditText
+        android:id="@+id/music"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="1 - 5"
+        android:inputType="number"
+        android:textColor="#A575B3" />
+
+</LinearLayout>
