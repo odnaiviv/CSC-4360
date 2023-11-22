@@ -2,6 +2,8 @@
 
 ### Grade: 100! :D 
 
+[Code](https://github.com/odnaiviv/CSC-4360/tree/main/Labs/03/03) 
+
 
 >My Lab03 Submission Files: 
 >* [Lab03a_Do.zip](https://github.com/odnaiviv/CSC-4360/blob/main/Labs/03/Lab03a_Do.zip) 
