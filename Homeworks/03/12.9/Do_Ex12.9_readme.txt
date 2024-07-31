@@ -1,0 +1,26 @@
+12.9 
+1) open app on phone emulator 
+2) you should see "Meal Rater!" text with "Restaurant Name" & "Meal Name" empty text fields 
+ - there should also be "Rate Meal" & "Save" buttons, and "Overall Rating: " with the current rating of "1" 
+3) enter in restaurant name & meal name in empty text fields 
+ - for this case, I used McDonald's and Quarter Pounder as the restaurant & meal respectively 
+4) click on "Rate Meal" button 
+ - a screen should pop up with current "Rating" on screen with "-" and "+" stepper buttons 
+ - this allows you to pick your rating from 1 to 5 
+5) click on "+" to increase rating and "-" to decrease rating 
+ - for this case, I rated this as 3, so I clicked on "+" two times 
+6) drag the screen back down & overall rating should show your rating 
+7) click on "Save" to save rating 
+
+This is where 12.9 differs from 11.13. 
+
+8) you should see a list pop up with "Saved Meals!" & your saved entry
+ - the "Back to Main" button at the bottom will take you back to the meal rater 
+9) click on "Back to Main" 
+10) repeat 3-7 to see if your entries are saved on the list 
+ - you should see the list sorted in ascending order 
+
+
+Notes: 
+The first 7 steps are exactly the same as 11.13. I wasn't sure if I should keep or delete these steps, but I ended up keeping them. :)
+

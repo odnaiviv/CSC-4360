@@ -1,0 +1,13 @@
+11.8 
+1) open app on phone emulator 
+2) you should see the contact form with "View" & "Edit" toggles 
+ - clicking on "Edit" will let you write inside the forms 
+3) on the bottom of the app, click on "Settings" 
+ - you should see "Sort Order" with a list of categories from the contact form & "Ascending Sort:" toggle button 
+4) scroll through the list 
+ - you should see "Home Email Address" as a part of this list! 
+
+
+Notes: 
+I'm not entirely sure if this is right due to how simple this is..? 
+

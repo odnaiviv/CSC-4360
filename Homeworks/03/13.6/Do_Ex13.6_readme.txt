@@ -1,0 +1,35 @@
+13.6 
+1) open app on phone emulator 
+2) you should see "Meal Rater!" text with "Restaurant Name" & "Meal Name" empty text fields 
+ - there should also be "Rate Meal" & "Save" buttons, and "Overall Rating: " with the current rating of "1" 
+3) enter in restaurant name & meal name in empty text fields 
+ - for this case, I used McDonald's and Quarter Pounder as the restaurant & meal respectively 
+4) click on "Rate Meal" button 
+ - a screen should pop up with current "Rating" on screen with "-" and "+" stepper buttons 
+ - this allows you to pick your rating from 1 to 5 
+5) click on "+" to increase rating and "-" to decrease rating 
+ - for this case, I rated this as 3, so I clicked on "+" two times 
+6) drag the screen back down & overall rating should show your rating 
+7) click on "Save" to save rating 
+
+This is where 13.6 differs from 11.13 and 12.9. 
+
+8) on the main page, there should be "Restaurant Location" button under "Save" 
+ - click on "Restaurant Location" button & this should take you to a new page 
+9) you should see the restaurant name as the title, four different buttons, and "Latitude: " & "Longitude: " texts 
+ - the four buttons are "Look Up", "From My Location", "Save Location", and "Back to Main" 
+10) click on "Look Up" 
+ - you should see "Email Address: " text field & "Find" button pop up 
+11) enter in address & click "Find" 
+ - i made something up like 1234 Main Street New York City, NY 12345 
+12) the latitude & longitude coordinates should now show the address location 
+ - in this case, my latitude is 40.756745 & my longitude is -73.9554537 
+13) click "Save Location" 
+ - latitude & longitude should be saved in Core Data 
+14) click "Back to Menu" 
+ - this should take you back to the meal rater page again 
+
+
+Notes: 
+This one gave me a lot of problems as well >:( In theory my "Back to Menu" should work but it's not???? It worked with the ListView, why didn't it work here as well? :/ 
+
